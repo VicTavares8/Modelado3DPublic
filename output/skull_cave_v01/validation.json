@@ -1,0 +1,14 @@
+{
+  "blender": "5.2.3 LTS",
+  "vertices": 9836,
+  "triangles": 19680,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "dimensions_m": [
+    12.0,
+    10.0,
+    8.0
+  ],
+  "material_stage": "basic stone colors; no detailed texture pass",
+  "glb_roundtrip": "passed: one cave mesh, dimensions and materials preserved"
+}

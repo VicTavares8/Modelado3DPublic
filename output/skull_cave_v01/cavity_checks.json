@@ -1,0 +1,10 @@
+{
+  "no_floor": "passed",
+  "mouth_passage": "passed",
+  "left_eye_open": "passed",
+  "right_eye_open": "passed",
+  "nose_open": "passed",
+  "roof": "passed",
+  "back_wall": "passed",
+  "side_wall": "passed"
+}
