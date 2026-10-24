@@ -1,0 +1,32 @@
+{
+  "blender": "5.2.3 LTS",
+  "vertices": 1135,
+  "faces": 1139,
+  "face_counts_by_sides": {
+    "4": 1139
+  },
+  "triangles_equivalent": 2278,
+  "v01_triangles": 19680,
+  "triangle_reduction_percent": 88.42,
+  "nonmanifold_edges": 0,
+  "degenerate_faces": 0,
+  "connected_components": 1,
+  "dimensions_m": [
+    12.000000953674316,
+    9.999999046325684,
+    8.0
+  ],
+  "render_modifiers": 0,
+  "cavity_checks": {
+    "no_floor": "passed",
+    "mouth_open": "passed",
+    "left_eye_open": "passed",
+    "right_eye_open": "passed",
+    "nose_open": "passed",
+    "roof": "passed",
+    "back_wall": "passed",
+    "side_wall": "passed"
+  },
+  "glb_roundtrip": "passed: one mesh, one material, dimensions and triangle count",
+  "glb_bytes": 160724
+}
