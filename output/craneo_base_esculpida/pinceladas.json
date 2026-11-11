@@ -1,0 +1,258 @@
+[
+  {
+    "brush": "GRAB",
+    "view": "front",
+    "start": [
+      0,
+      -0.2,
+      -0.97
+    ],
+    "end": [
+      0,
+      -0.2,
+      -1.32
+    ],
+    "radius": 0.9,
+    "max_displacement": 0.3500000246933523
+  },
+  {
+    "brush": "GRAB",
+    "view": "front",
+    "start": [
+      0.77,
+      -0.43,
+      -0.48
+    ],
+    "end": [
+      0.57,
+      -0.43,
+      -0.48
+    ],
+    "radius": 0.63,
+    "max_displacement": 0.19999963454868783
+  },
+  {
+    "brush": "GRAB",
+    "view": "front",
+    "start": [
+      0.57,
+      -0.42,
+      -0.92
+    ],
+    "end": [
+      0.48,
+      -0.42,
+      -0.92
+    ],
+    "radius": 0.48,
+    "max_displacement": 0.08512780092707098
+  },
+  {
+    "brush": "GRAB",
+    "view": "side",
+    "start": [
+      0.42,
+      -0.43,
+      -1.0
+    ],
+    "end": [
+      0.42,
+      -0.69,
+      -1.0
+    ],
+    "radius": 0.7,
+    "max_displacement": 0.18387282243550448
+  },
+  {
+    "brush": "GRAB",
+    "view": "side",
+    "start": [
+      0.3,
+      0.42,
+      -0.84
+    ],
+    "end": [
+      0.3,
+      0.24,
+      -0.69
+    ],
+    "radius": 1.0,
+    "max_displacement": 0.2433563529205046
+  },
+  {
+    "brush": "GRAB",
+    "view": "side",
+    "start": [
+      0.58,
+      0.64,
+      0.35
+    ],
+    "end": [
+      0.58,
+      0.82,
+      0.35
+    ],
+    "radius": 0.85,
+    "max_displacement": 0.13629943031942748
+  },
+  {
+    "brush": "GRAB",
+    "view": "side",
+    "start": [
+      0.45,
+      -0.83,
+      0.38
+    ],
+    "end": [
+      0.45,
+      -0.92,
+      0.38
+    ],
+    "radius": 0.68,
+    "max_displacement": 0.06719255539260899
+  },
+  {
+    "brush": "GRAB",
+    "view": "front",
+    "start": [
+      0.73,
+      -0.58,
+      -0.19
+    ],
+    "end": [
+      0.84,
+      -0.58,
+      -0.19
+    ],
+    "radius": 0.42,
+    "max_displacement": 0.10996586143215432
+  },
+  {
+    "brush": "GRAB",
+    "view": "front",
+    "start": [
+      0.58,
+      -0.56,
+      -0.62
+    ],
+    "end": [
+      0.53,
+      -0.56,
+      -0.62
+    ],
+    "radius": 0.3,
+    "max_displacement": 0.03562337103578605
+  },
+  {
+    "brush": "DRAW",
+    "view": "front",
+    "start": [
+      0.45,
+      -0.8,
+      0.53
+    ],
+    "end": [
+      0.53,
+      -0.75,
+      0.68
+    ],
+    "radius": 0.25,
+    "max_displacement": 0.006592475601747079
+  },
+  {
+    "brush": "DRAW",
+    "view": "front",
+    "start": [
+      0.28,
+      -0.81,
+      -0.73
+    ],
+    "end": [
+      0.35,
+      -0.77,
+      -0.83
+    ],
+    "radius": 0.23,
+    "max_displacement": 0.005090288077101485
+  },
+  {
+    "brush": "FLATTEN",
+    "view": "front",
+    "start": [
+      0,
+      -0.91,
+      0.38
+    ],
+    "end": [
+      0.12,
+      -0.9,
+      0.44
+    ],
+    "radius": 0.58,
+    "max_displacement": 0.001750649303815842
+  },
+  {
+    "brush": "SMOOTH",
+    "view": "side",
+    "start": [
+      0.65,
+      0.35,
+      -0.55
+    ],
+    "end": [
+      0.62,
+      -0.15,
+      -0.75
+    ],
+    "radius": 0.85,
+    "max_displacement": 0.016830482547983364
+  },
+  {
+    "brush": "SMOOTH",
+    "view": "side",
+    "start": [
+      0.65,
+      0.35,
+      -0.55
+    ],
+    "end": [
+      0.62,
+      -0.15,
+      -0.75
+    ],
+    "radius": 0.85,
+    "max_displacement": 0.013400639485642244
+  },
+  {
+    "brush": "SMOOTH",
+    "view": "side",
+    "start": [
+      0.65,
+      0.35,
+      -0.55
+    ],
+    "end": [
+      0.62,
+      -0.15,
+      -0.75
+    ],
+    "radius": 0.85,
+    "max_displacement": 0.01141812981773925
+  },
+  {
+    "brush": "SMOOTH",
+    "view": "front",
+    "start": [
+      0.45,
+      -0.7,
+      -0.5
+    ],
+    "end": [
+      0.35,
+      -0.6,
+      -0.95
+    ],
+    "radius": 0.55,
+    "max_displacement": 0.008739516704780093
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "objects": 1,
+  "vertices": 17762,
+  "faces": 17920,
+  "non_manifold_edges": 0,
+  "modifiers": 0,
+  "mode": "SCULPT",
+  "symmetry_x": true,
+  "max_symmetry_error": 4.897215603705263e-06
+}
