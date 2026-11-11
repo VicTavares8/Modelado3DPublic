@@ -1,0 +1,59 @@
+{
+  "blender": "4.3.2",
+  "meshes": 1,
+  "vertices": 17790,
+  "faces": 17788,
+  "triangles": 35576,
+  "connected_components": 1,
+  "non_manifold_edges": 0,
+  "degenerate_faces": 0,
+  "volume_m3": 0.003012637165087269,
+  "dimensions_m": [
+    0.15460877120494843,
+    0.18503138422966003,
+    0.21992206573486328
+  ],
+  "saved_mode": "SCULPT",
+  "symmetry_x": true,
+  "max_symmetry_error_m": 7.398352408927167e-06,
+  "modifiers": 0,
+  "all_quads": true,
+  "original_faces": 41018,
+  "face_reduction_percent": 56.63367302160027,
+  "surface_comparison": {
+    "original_faces": 41018,
+    "faces": 17788,
+    "vertices": 17790,
+    "face_sizes": [
+      4
+    ],
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "volume": 0.003012637165087269,
+    "original_to_remesh": {
+      "samples": 205092,
+      "max_mm": 0.6342257838696241,
+      "p95_mm": 0.08338430779986084,
+      "mean_mm": 0.02504841824706661
+    },
+    "remesh_to_original": {
+      "samples": 88942,
+      "max_mm": 0.4812396364286542,
+      "p95_mm": 0.06878973363200203,
+      "mean_mm": 0.0182895455439266
+    }
+  },
+  "glb_roundtrip": {
+    "status": "passed",
+    "meshes": 1,
+    "triangles": 35576,
+    "dimensions_m": [
+      0.15460877120494843,
+      0.18503138422966003,
+      0.21992206573486328
+    ],
+    "max_position_error_m": 0.0,
+    "materials": 1,
+    "bytes": 641568
+  }
+}
